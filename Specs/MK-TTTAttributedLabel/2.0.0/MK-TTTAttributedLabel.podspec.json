@@ -2,16 +2,17 @@
   "name": "MK-TTTAttributedLabel",
   "version": "2.0.0",
   "authors": {
-    "Mattt Thompson": "m@mattt.me"
+    "Chihpin": "zhibin.cai@mosoink.com"
   },
   "homepage": "https://github.com/Mosoink/TTTAttributedLabel",
   "platforms": {
     "ios": "8.0",
     "tvos": "9.0"
   },
-  "summary": "A drop-in replacement for UILabel that supports attributes, data detectors, links, and more.",
+  "summary": "Fix some issues, fork from TTTAttributedLabel 2.0.0",
   "source": {
-    "git": "https://github.com/Mosoink/TTTAttributedLabel.git"
+    "git": "https://github.com/Mosoink/TTTAttributedLabel.git",
+    "branch": "mk"
   },
   "license": "MIT",
   "frameworks": [
@@ -22,5 +23,5 @@
   ],
   "source_files": "TTTAttributedLabel",
   "requires_arc": true,
-  "social_media_url": "https://twitter.com/mattt"
+  "social_media_url": "https://mosoink.com"
 }
