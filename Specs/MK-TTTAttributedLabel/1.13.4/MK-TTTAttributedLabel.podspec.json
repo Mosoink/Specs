@@ -1,0 +1,26 @@
+{
+  "name": "MK-TTTAttributedLabel",
+  "version": "1.13.4",
+  "authors": {
+    "Chihpin": "zhibin.cai@mosoink.com"
+  },
+  "homepage": "https://github.com/Mosoink/TTTAttributedLabel",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "Fix some issues, fork from TTTAttributedLabel 1.13.4",
+  "source": {
+    "git": "https://github.com/Mosoink/TTTAttributedLabel.git",
+    "branch": "mk-1.13.4"
+  },
+  "license": "MIT",
+  "frameworks": [
+    "UIKit",
+    "CoreText",
+    "CoreGraphics",
+    "QuartzCore"
+  ],
+  "source_files": "TTTAttributedLabel",
+  "requires_arc": true,
+  "social_media_url": "https://mosoink.com"
+}
